@@ -1,0 +1,6 @@
+https://drive.google.com/file/d/1ryRGRLUhU3faaMGlWDEJevow1NSuh6Cc/view?usp=share_link
+
+Changes since milestone 1:
+Added data access layer which contains DTOs and controllers for task, column, board and user.
+Added DataService for loading and deleting data, and each object in the business layer now has a DTO.
+Added an assignee ID field to the task business.
